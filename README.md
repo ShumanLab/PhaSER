@@ -55,3 +55,5 @@ Ball Tracker Parameters:
 ⦁	restrict to running?: enable/disable stimulation outside of running bouts  
 
 Base Filename: File path to write recorded signals to TDMS file  
+  
+![PhaSER_front_panel](https://user-images.githubusercontent.com/99913976/214125636-39915a42-b956-4302-8a8e-386e057889c3.jpg)
