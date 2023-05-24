@@ -3,8 +3,7 @@ PhaSER is an open-source tool for phase-specific manipulations of neural activit
 
 Details about PhaSER’s accuracy and applications can be found in this preprint on bioRxiv: https://www.biorxiv.org/content/10.1101/2023.02.21.529420v1
 
-An Open Box Science webinar on PhaSER and its uses can be found here: https://www.youtube.com/watch?v=92RgFDHp-dc&t=1808s
-
+An Open Box Science webinar on PhaSER and its uses can be found here: https://youtu.be/92RgFDHp-dc
 
 ## Description:  
 PhaSER-2C.vi is a LabVIEW application designed to provide real-time phase estimation and initiate phase-locked stimulation with up to two independent outputs, for example for bidirectional optogenetic manipulation. LFP signals are acquired using DAQmx functions. The frequency band of interest is filtered using a zero-phase Butterworth topology filter. Forward prediction of this filtered signal is then applied using autoregressive estimation. The phase of this signal is then extracted using a Fast Hilbert transform. Stimulation is triggered on digital output channels when a set target phase is detected.
