@@ -1,7 +1,10 @@
 ## PhaSER  
 PhaSER is an open-source tool for phase-specific manipulations of neural activity developed by Paul A Philipsberg and Zoé Christenson Wick in the Shuman Lab at Mount Sinai.
 
-Details about PhaSER’s accuracy and applications can be found in this preprint on bioRxiv: https://www.biorxiv.org/content/10.1101/2023.02.21.529420v1
+Details about PhaSER's validations and its application to study seizure susceptibility can be found in this preprint: https://www.biorxiv.org/content/10.1101/2025.09.10.675457v1  
+  
+Further technical details about PhaSER can be found in this preprint:  
+https://www.biorxiv.org/content/10.1101/2023.02.21.529420v1
 
 An Open Box Science webinar on PhaSER and its uses can be found here: https://youtu.be/92RgFDHp-dc
 
