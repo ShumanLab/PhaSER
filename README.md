@@ -14,8 +14,8 @@ PhaSER-2C.vi is a LabVIEW application designed to provide real-time phase estima
 ![for_githubAsset 1@320x-100](https://user-images.githubusercontent.com/108362860/220750030-89389a39-4b74-4efe-aaec-76c8c02f96fc.jpg)
 
 ## How to Cite:
-If you use any version of PhaSER or its source code, please cite the preprint:
-Christenson Wick, Z., Philipsberg, PA., Lamsifer, S.I., Kohler, C., Katanov E., Feng Y., Humphrey C., Shuman T. Manipulating single-unit theta phase-locking with PhaSER: An open-source tool for real-time phase estimation and manipulation.  bioRxiv 2023. 
+If you use any version of PhaSER or its source code, please cite this preprint:
+Christenson Wick, Z., Philipsberg, PA., Kohler, C., Lamsifer, S.I., Katanov, E., Adam, C.D., Gordon, K.E., Feng, Y., Vetere, L.M., Donnelly, G.C., Humphrey, C., Cai, D.J., Shuman, T. Interneuron theta phase locking controls seizure susceptibility.  bioRxiv 2025. https://doi.org/10.1101/2025.09.10.675457
 
 ## Requirements:
 ⦁	LabVIEW2017 or later  
