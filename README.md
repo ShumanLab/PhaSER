@@ -18,9 +18,12 @@ If you use any version of PhaSER or its source code, please cite this preprint:
 Christenson Wick, Z., Philipsberg, PA., Kohler, C., Lamsifer, S.I., Katanov, E., Adam, C.D., Gordon, K.E., Feng, Y., Vetere, L.M., Donnelly, G.C., Humphrey, C., Cai, D.J., Shuman, T. Interneuron theta phase locking controls seizure susceptibility.  bioRxiv 2025. https://doi.org/10.1101/2025.09.10.675457
 
 ## Requirements:
-⦁	LabVIEW2017 or later  
-⦁	Local installation of MATLAB 7.2 or later (for execution of MATLAB script node to estimate autoregressive coefficients using Yule-Walker method in MATLAB)  
-⦁	DAQmx compatible PCIe DAQ with at least 5 analog inputs, 2 digital outputs, and one hardware counter  
+-	LabVIEW2017 or later  
+-	Local installation of MATLAB 7.2 or later (for execution of MATLAB script node to estimate autoregressive coefficients using Yule-Walker method in MATLAB)  
+-	DAQmx compatible PCIe DAQ with at least 5 analog inputs, 2 digital outputs, and one hardware counter  
+- Computer requirements for PhaSER overlap with those required for local installation of MATLAB 7.2 or later and LabVIEW2017 or later 
+  - For MATLAB: https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/SystemRequirements-Release2017b_Windows.pdf
+  - For LabVIEW: https://www.ni.com/pdf/manuals/374715g.html?srsltid=AfmBOoq5a5B4vEmDWWGvmqRSczaebGAe4amWqXJYmklQonRqAIHtUNo3#requirements    
 
 ![for_githubAsset 2@320x-100](https://user-images.githubusercontent.com/108362860/220750155-97bd5204-39fa-479b-b4c6-0ce2409bd566.jpg)
 
